@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/zHobbit">
+  <a href="https://github.com/zHobbit02">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=E0131D&center=true&vCenter=true&width=520&lines=Automation+%26+Full-Stack+Developer;n8n+%C2%B7+React+%C2%B7+TypeScript+%C2%B7+Java;ADS+student+%40+FIAP;Looking+for+an+internship" alt="Typing SVG" />
   </a>
 </p>
@@ -84,19 +84,19 @@ English: intermediate · Spanish: beginner
 <h2 align="center">Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/zHobbit/promolinks-ofertas-whatsapp">
+  <a href="https://github.com/zHobbit02/promolinks-ofertas-whatsapp">
     <img src="https://img.shields.io/badge/promolinks-n8n_·_WhatsApp_·_PostgreSQL-0D0D0D?style=for-the-badge&labelColor=E0131D" />
   </a>
   <br>
-  <a href="https://github.com/zHobbit/CLONEMON_PROJETO_N1_POO">
+  <a href="https://github.com/zHobbit02/CLONEMON_PROJETO_N1_POO">
     <img src="https://img.shields.io/badge/CLONEMON-Spring_Boot_·_Phaser_·_PostgreSQL-0D0D0D?style=for-the-badge&labelColor=E0131D" />
   </a>
   <br>
-  <a href="https://github.com/zHobbit/crm-injetores">
+  <a href="https://github.com/zHobbit02/crm-injetores">
     <img src="https://img.shields.io/badge/crm--injetores-React_·_TypeScript_·_Zustand-0D0D0D?style=for-the-badge&labelColor=E0131D" />
   </a>
   <br>
-  <a href="https://github.com/zHobbit/challenge-jovi-lensai">
+  <a href="https://github.com/zHobbit02/challenge-jovi-lensai">
     <img src="https://img.shields.io/badge/LensAI-FIAP_Challenge_2026-0D0D0D?style=for-the-badge&labelColor=E0131D" />
   </a>
 </p>
@@ -104,16 +104,16 @@ English: intermediate · Spanish: beginner
 <h3 align="center">Explore by technology</h3>
 
 <p align="center">
-  <a href="https://github.com/zHobbit?tab=repositories&language=java">
+  <a href="https://github.com/zHobbit02?tab=repositories&language=java">
     <img src="https://img.shields.io/badge/Java-0D0D0D?style=for-the-badge&logo=openjdk&logoColor=E0131D" />
   </a>
-  <a href="https://github.com/zHobbit?tab=repositories&language=python">
+  <a href="https://github.com/zHobbit02?tab=repositories&language=python">
     <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=E0131D" />
   </a>
-  <a href="https://github.com/zHobbit?tab=repositories&language=typescript">
+  <a href="https://github.com/zHobbit02?tab=repositories&language=typescript">
     <img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=E0131D" />
   </a>
-  <a href="https://github.com/zHobbit/promolinks-ofertas-whatsapp">
+  <a href="https://github.com/zHobbit02/promolinks-ofertas-whatsapp">
     <img src="https://img.shields.io/badge/n8n-0D0D0D?style=for-the-badge&logo=n8n&logoColor=E0131D" />
   </a>
 </p>
@@ -124,14 +124,14 @@ English: intermediate · Spanish: beginner
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zHobbit/zHobbit/metrics/metrics-dark.svg">
-    <img alt="GitHub metrics with full-year isometric contribution calendar" src="https://raw.githubusercontent.com/zHobbit/zHobbit/metrics/metrics.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zHobbit02/zHobbit02/metrics/metrics-dark.svg">
+    <img alt="GitHub metrics with full-year isometric contribution calendar" src="https://raw.githubusercontent.com/zHobbit02/zHobbit02/metrics/metrics.svg">
   </picture>
 </div>
 
 <p align="center">
-  <a href="https://github.com/zHobbit">
-    <img height="150px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=zHobbit&layout=compact&count_private=true&bg_color=0D0D0D&title_color=E0131D&text_color=FFFFFF&border_color=E0131D" />
+  <a href="https://github.com/zHobbit02">
+    <img height="150px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=zHobbit02&layout=compact&count_private=true&bg_color=0D0D0D&title_color=E0131D&text_color=FFFFFF&border_color=E0131D" />
   </a>
 </p>
 
@@ -186,9 +186,9 @@ English: intermediate · Spanish: beginner
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zHobbit&style=for-the-badge&color=E0131D&label=VISITORS" />
-  <img src="https://img.shields.io/github/followers/zHobbit?style=for-the-badge&color=0D0D0D&labelColor=0D0D0D&logo=github&logoColor=E0131D&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/zHobbit?style=for-the-badge&color=0D0D0D&labelColor=0D0D0D&logo=github&logoColor=E0131D&label=STARS" />
+  <img src="https://komarev.com/ghpvc/?username=zHobbit02&style=for-the-badge&color=E0131D&label=VISITORS" />
+  <img src="https://img.shields.io/github/followers/zHobbit02?style=for-the-badge&color=0D0D0D&labelColor=0D0D0D&logo=github&logoColor=E0131D&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/zHobbit02?style=for-the-badge&color=0D0D0D&labelColor=0D0D0D&logo=github&logoColor=E0131D&label=STARS" />
 </p>
 
 <div>
